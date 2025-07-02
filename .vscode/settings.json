@@ -1,0 +1,8 @@
+{
+    "mdb.presetConnections": [
+        {
+            "name": "cluster0",
+            "connectionString": "mongodb://localhost:27017"
+        }
+    ]
+}
